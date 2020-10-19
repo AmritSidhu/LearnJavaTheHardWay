@@ -17,5 +17,6 @@ public class Ex3 {
 
         System.out.println();
         System.out.println( "This" + " " + "is" + " " + "a" + " test." );
+        System.out.println("Alpha\nBravo\nCharlie\nDelta\n\nEchoFoxtrotGolf\nIndia\n\nThis is a test");
     }
 }
